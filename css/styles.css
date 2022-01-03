@@ -1,0 +1,103 @@
+body{
+    font-family: Montserrat;
+}
+
+
+h1 {  font-family: Montserrat-Black;  
+    font-size: 3.5rem;  
+    line-height: 1.5; 
+     font-weight: 900;
+}
+#title{
+    background-color: #ff4c68;
+    color:#fff;
+
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar{
+    padding-bottom:0 0 4.5rem;
+}
+.navbar-brand{
+    font-family: ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #fff;
+}
+.nav-item{
+    padding: 0 18px;
+    text-shadow: #ff4c68;
+    color: white;
+}
+.nav-link{
+    font-size: 1.3rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+
+/*Button */
+
+.button{
+    margin: 5% 3% 5% 0;
+}
+
+/*feature section*/
+#features{
+    padding: 7% 15%;
+    background-color: aliceblue;
+}
+h3{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+p{
+    color: gray;
+}
+ .feature-box{
+     text-align: center;
+     padding: 5%;
+
+ }
+
+ .icon{
+     color:  #ef8172;
+     margin-bottom: 1rem;
+ }
+ .icon:hover{
+     color: #ff4c68;
+ }
+
+
+ /*testimonial*/
+
+
+ #testimonials{
+     padding: 7% 15%;
+     text-align: center;
+     background-color: #ef8172;
+     color: #fff;
+ }
+  h2{
+      font-family: Montserrat-bold;
+      font-size: 3rem;
+      line-height: 1.5;
+  }
+
+  .testimonial-image{
+      width: 20%;
+      border-radius: 100%;
+      margin: 20px;
+  }
+
+  #press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+  }
+  .press-logo{
+      width: 15%;
+      margin: 20px 20px 50px;
+  }
